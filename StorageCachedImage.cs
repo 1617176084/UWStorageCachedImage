@@ -1,4 +1,8 @@
-﻿using System;
+﻿/**
+* 作者：王子大人
+* github地址：https://github.com/1617176084
+*/
+using System;
 using System.Diagnostics.CodeAnalysis;
 using System.IO;
 using System.IO.IsolatedStorage;
